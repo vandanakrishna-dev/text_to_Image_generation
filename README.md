@@ -1,2 +1,3 @@
 # text_to_Image_generation
-text_to_Image_generation
+
+Stable Bud is a beginner-friendly Python desktop app that turns text prompts into AI-generated images using the Stable Diffusion model. It features a modern, dark-themed GUI built with customtkinter and leverages PyTorch for fast, GPU-accelerated performance. Users simply type a description, click "Generate," and the app displays and saves the resulting image. To run it, you'll need a Hugging Face access token, a CUDA-compatible GPU, and required Python packages like diffusers, torch, and Pillow. Stable Bud is ideal for learning how to combine AI with user interfaces, offering a creative way to explore text-to-image generation.
